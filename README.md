@@ -12,6 +12,20 @@ In addition, it provides real-time simulations of evolutionary models or algorit
 ###
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[File Automation](https://github.com/sourceduty/File_Automation)
+<br>
+[Maintenance Automation](https://github.com/sourceduty/Maintenance_Automation)
+<br>
+[Education Automation](https://github.com/sourceduty/Education_Automation)
+<br>
+[Corporate Automation](https://github.com/sourceduty/Corporate_Automation)
+<br>
+[Input Automation](https://github.com/sourceduty/Input_Automation)
+<br>
+[Math Programmer](https://github.com/sourceduty/Math_Programmer)
+<br>
+[Search Programmer](https://github.com/sourceduty/Search_Programmer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
