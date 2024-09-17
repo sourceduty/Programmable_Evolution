@@ -1,4 +1,4 @@
-![Return 2 Monke](https://github.com/user-attachments/assets/ef814176-4289-48d3-9227-66b67619f4c1)
+![Return 2 Monke](https://github.com/user-attachments/assets/af35f810-4642-47da-a9ea-7738d1733e0c)
 
 > Plan, develop and simulate evolving programs.
 
